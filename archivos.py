@@ -1,5 +1,5 @@
 try:
-    archivo = open("Archivos/Población Colombia 2021.txt")
+    archivo = open("archivos/Población Colombia 2021.txt")
 except FileNotFoundError:
     print("El archivo no existe")
 else:

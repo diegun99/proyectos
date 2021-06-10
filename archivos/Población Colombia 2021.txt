@@ -1,0 +1,1123 @@
+cod_dep;nom_dep;cod_mun;nom_mun;poblacion
+05;Antioquia;05002;Abejorral;20602
+54;Norte de Santander;54003;Ábrego;34395
+05;Antioquia;05004;Abriaquí;2777
+50;Meta;50006;Acacías;92607
+27;Chocó;27006;Acandí;14274
+41;Huila;41006;Acevedo;25510
+13;Bolívar;13006;Achí;25263
+41;Huila;41013;Agrado;9010
+25;Cundinamarca;25001;Agua de Dios;12813
+20;Cesar;20011;Aguachica;121140
+68;Santander;68013;Aguada;1888
+17;Caldas;17013;Aguadas;23245
+85;Casanare;85010;Aguazul;38360
+20;Cesar;20013;Agustín Codazzi;66019
+41;Huila;41016;Aipe;16685
+25;Cundinamarca;25019;Albán;7152
+52;Nariño;52019;Albán;9318
+18;Caquetá;18029;Albania;4442
+44;La Guajira;44035;Albania;33006
+68;Santander;68020;Albania;4385
+76;Valle del Cauca;76020;Alcalá;14375
+52;Nariño;52022;Aldana;7359
+05;Antioquia;05021;Alejandría;4771
+47;Magdalena;47030;Algarrobo;17046
+41;Huila;41020;Algeciras;22760
+19;Cauca;19022;Almaguer;18322
+15;Boyacá;15022;Almeida;1820
+73;Tolima;73024;Alpujarra;4470
+41;Huila;41026;Altamira;4404
+27;Chocó;27025;Alto Baudó;28528
+13;Bolívar;13030;Altos del Rosario;11756
+73;Tolima;73026;Alvarado;8739
+05;Antioquia;05030;Amagá;31768
+05;Antioquia;05031;Amalfi;27496
+73;Tolima;73030;Ambalema;6579
+25;Cundinamarca;25035;Anapoima;16702
+52;Nariño;52036;Ancuya;8601
+76;Valle del Cauca;76036;Andalucía;22716
+05;Antioquia;05034;Andes;44885
+05;Antioquia;05036;Angelópolis;5932
+05;Antioquia;05038;Angostura;11715
+25;Cundinamarca;25040;Anolaima;15156
+05;Antioquia;05040;Anorí;19404
+17;Caldas;17042;Anserma;37005
+76;Valle del Cauca;76041;Ansermanuevo;17409
+05;Antioquia;05044;Anzá;7280
+73;Tolima;73043;Anzoátegui;10034
+05;Antioquia;05045;Apartadó;129751
+66;Risaralda;66045;Apía;12315
+25;Cundinamarca;25599;Apulo;9094
+15;Boyacá;15047;Aquitania;15656
+47;Magdalena;47053;Aracataca;42128
+17;Caldas;17050;Aranzazu;10646
+68;Santander;68051;Aratoca;8581
+81;Arauca;81001;Arauca;99143
+81;Arauca;81065;Arauquita;57562
+25;Cundinamarca;25053;Arbeláez;11394
+52;Nariño;52051;Arboleda;8418
+54;Norte de Santander;54051;Arboledas;10194
+05;Antioquia;05051;Arboletes;30984
+15;Boyacá;15051;Arcabuco;6021
+13;Bolívar;13042;Arenal;7890
+05;Antioquia;05055;Argelia;7662
+19;Cauca;19050;Argelia;26800
+76;Valle del Cauca;76054;Argelia;5205
+47;Magdalena;47058;Ariguaní;32281
+13;Bolívar;13052;Arjona;74819
+05;Antioquia;05059;Armenia;5153
+63;Quindío;63001;Armenia;308463
+73;Tolima;73055;Armero;12072
+13;Bolívar;13062;Arroyohondo;8839
+20;Cesar;20032;Astrea;21499
+73;Tolima;73067;Ataco;19171
+27;Chocó;27050;Atrato;6259
+23;Córdoba;23068;Ayapel;47633
+27;Chocó;27073;Bagadó;11355
+27;Chocó;27075;Bahía Solano;10362
+27;Chocó;27077;Bajo Baudó;30719
+19;Cauca;19075;Balboa;21608
+66;Risaralda;66075;Balboa;6346
+08;Atlántico;08078;Baranoa;68264
+41;Huila;41078;Baraya;8337
+52;Nariño;52079;Barbacoas;56524
+05;Antioquia;05079;Barbosa;55201
+68;Santander;68077;Barbosa;33021
+68;Santander;68079;Barichara;10935
+50;Meta;50110;Barranca de Upía;6632
+68;Santander;68081;Barrancabermeja;213061
+44;La Guajira;44078;Barrancas;39221
+13;Bolívar;13074;Barranco de Loba;15402
+94;Guainía;94343;Barranco Minas;9104
+08;Atlántico;08001;Barranquilla;1297082
+20;Cesar;20045;Becerril;23793
+17;Caldas;17088;Belalcázar;10741
+15;Boyacá;15087;Belén;7585
+52;Nariño;52083;Belén;6300
+18;Caquetá;18094;Belén de Los Andaquíes;11297
+66;Risaralda;66088;Belén de Umbría;24899
+05;Antioquia;05088;Bello;560831
+05;Antioquia;05086;Belmira;6211
+25;Cundinamarca;25086;Beltrán;1960
+15;Boyacá;15090;Berbeo;1593
+05;Antioquia;05091;Betania;10444
+15;Boyacá;15092;Betéitiva;1949
+05;Antioquia;05093;Betulia;16143
+68;Santander;68092;Betulia;6128
+25;Cundinamarca;25095;Bituima;2670
+15;Boyacá;15097;Boavita;4831
+54;Norte de Santander;54099;Bochalema;8968
+11;Bogotá, D.C.;11001;Bogotá, D.C.;7834167
+25;Cundinamarca;25099;Bojacá;11535
+27;Chocó;27099;Bojayá;12428
+19;Cauca;19100;Bolívar;37289
+68;Santander;68101;Bolívar;11101
+76;Valle del Cauca;76100;Bolívar;15798
+20;Cesar;20060;Bosconia;44235
+15;Boyacá;15104;Boyacá;5154
+05;Antioquia;05107;Briceño;8246
+15;Boyacá;15106;Briceño;2178
+68;Santander;68001;Bucaramanga;614269
+54;Norte de Santander;54109;Bucarasica;6704
+76;Valle del Cauca;76109;Buenaventura;313508
+15;Boyacá;15109;Buenavista;4427
+23;Córdoba;23079;Buenavista;21626
+63;Quindío;63111;Buenavista;3166
+70;Sucre;70110;Buenavista;11117
+19;Cauca;19110;Buenos Aires;32311
+52;Nariño;52110;Buesaco;23909
+76;Valle del Cauca;76113;Bugalagrande;24597
+05;Antioquia;05113;Buriticá;9783
+15;Boyacá;15114;Busbanzá;1161
+25;Cundinamarca;25120;Cabrera;5263
+68;Santander;68121;Cabrera;2043
+50;Meta;50124;Cabuyaro;6243
+94;Guainía;94886;Cacahual;908
+05;Antioquia;05120;Cáceres;30833
+25;Cundinamarca;25123;Cachipay;11128
+54;Norte de Santander;54128;Cáchira;11351
+54;Norte de Santander;54125;Cácota;2954
+05;Antioquia;05125;Caicedo;8668
+76;Valle del Cauca;76122;Caicedonia;28674
+70;Sucre;70124;Caimito;16252
+73;Tolima;73124;Cajamarca;18494
+19;Cauca;19130;Cajibío;43183
+25;Cundinamarca;25126;Cajicá;96678
+13;Bolívar;13140;Calamar;23433
+95;Guaviare;95015;Calamar;10282
+63;Quindío;63130;Calarcá;75796
+05;Antioquia;05129;Caldas;84734
+15;Boyacá;15131;Caldas;3148
+19;Cauca;19137;Caldono;42112
+76;Valle del Cauca;76001;Cali;2264748
+68;Santander;68132;California;2257
+76;Valle del Cauca;76126;Calima;18364
+19;Cauca;19142;Caloto;30457
+05;Antioquia;05134;Campamento;9386
+08;Atlántico;08137;Campo de La Cruz;23989
+41;Huila;41132;Campoalegre;31614
+15;Boyacá;15135;Campohermoso;3083
+23;Córdoba;23090;Canalete;15563
+05;Antioquia;05138;Cañasgordas;15793
+08;Atlántico;08141;Candelaria;17506
+76;Valle del Cauca;76130;Candelaria;94736
+13;Bolívar;13160;Cantagallo;8824
+25;Cundinamarca;25148;Caparrapí;13506
+68;Santander;68147;Capitanejo;5540
+25;Cundinamarca;25151;Cáqueza;18669
+05;Antioquia;05142;Caracolí;4602
+05;Antioquia;05145;Caramanta;4720
+68;Santander;68152;Carcasí;4306
+05;Antioquia;05147;Carepa;51947
+73;Tolima;73148;Carmen de Apicalá;10479
+25;Cundinamarca;25154;Carmen de Carupa;8255
+27;Chocó;27150;Carmen del Darién;19671
+05;Antioquia;05150;Carolina;4034
+13;Bolívar;13001;Cartagena;1043926
+18;Caquetá;18150;Cartagena del Chairá;31480
+76;Valle del Cauca;76147;Cartago;138042
+97;Vaupés;97161;Carurú;3349
+73;Tolima;73152;Casabianca;6315
+50;Meta;50150;Castilla la Nueva;16041
+05;Antioquia;05154;Caucasia;96927
+68;Santander;68160;Cepitá;2047
+23;Córdoba;23162;Cereté;109299
+15;Boyacá;15162;Cerinza;3732
+68;Santander;68162;Cerrito;7010
+47;Magdalena;47161;Cerro San Antonio;10093
+27;Chocó;27160;Cértegui;5808
+52;Nariño;52240;Chachagüí;15299
+25;Cundinamarca;25168;Chaguaní;4537
+70;Sucre;70230;Chalán;4667
+85;Casanare;85015;Chámeza;2659
+73;Tolima;73168;Chaparral;50889
+68;Santander;68167;Charalá;12408
+68;Santander;68169;Charta;2920
+25;Cundinamarca;25175;Chía;155541
+05;Antioquia;05172;Chigorodó;60775
+23;Córdoba;23168;Chimá;18051
+68;Santander;68176;Chima;2898
+20;Cesar;20175;Chimichagua;36982
+54;Norte de Santander;54172;Chinácota;19120
+15;Boyacá;15172;Chinavita;3217
+17;Caldas;17174;Chinchiná;52715
+23;Córdoba;23182;Chinú;49092
+25;Cundinamarca;25178;Chipaque;10457
+68;Santander;68179;Chipatá;5149
+15;Boyacá;15176;Chiquinquirá;58356
+15;Boyacá;15232;Chíquiza;4778
+20;Cesar;20178;Chiriguaná;30248
+15;Boyacá;15180;Chiscas;3914
+15;Boyacá;15183;Chita;7848
+54;Norte de Santander;54174;Chitagá;12564
+15;Boyacá;15185;Chitaraque;5906
+15;Boyacá;15187;Chivatá;2854
+47;Magdalena;47170;Chivolo;23751
+15;Boyacá;15236;Chivor;2544
+25;Cundinamarca;25181;Choachí;11986
+25;Cundinamarca;25183;Chocontá;23163
+13;Bolívar;13188;Cicuco;14513
+47;Magdalena;47189;Ciénaga;126245
+23;Córdoba;23189;Ciénaga de Oro;61016
+15;Boyacá;15189;Ciénega;4688
+68;Santander;68190;Cimitarra;34789
+63;Quindío;63190;Circasia;29413
+05;Antioquia;05190;Cisneros;10090
+05;Antioquia;05101;Ciudad Bolívar;26721
+13;Bolívar;13222;Clemencia;15681
+05;Antioquia;05197;Cocorná;15063
+73;Tolima;73200;Coello;8345
+25;Cundinamarca;25200;Cogua;25404
+41;Huila;41206;Colombia;7122
+52;Nariño;52203;Colón;8314
+86;Putumayo;86219;Colón;5606
+70;Sucre;70204;Coloso;8852
+15;Boyacá;15204;Cómbita;13377
+05;Antioquia;05206;Concepción;4832
+68;Santander;68207;Concepción;5821
+05;Antioquia;05209;Concordia;22024
+47;Magdalena;47205;Concordia;11401
+27;Chocó;27205;Condoto;12467
+68;Santander;68209;Confines;3330
+52;Nariño;52207;Consacá;13735
+52;Nariño;52210;Contadero;7234
+68;Santander;68211;Contratación;3740
+54;Norte de Santander;54206;Convención;19916
+05;Antioquia;05212;Copacabana;83106
+15;Boyacá;15212;Coper;3596
+13;Bolívar;13212;Córdoba;16714
+52;Nariño;52215;Córdoba;15474
+63;Quindío;63212;Córdoba;5807
+19;Cauca;19212;Corinto;25643
+68;Santander;68217;Coromoro;5080
+70;Sucre;70215;Corozal;71843
+15;Boyacá;15215;Corrales;2563
+25;Cundinamarca;25214;Cota;38469
+23;Córdoba;23300;Cotorra;19712
+15;Boyacá;15218;Covarachía;2721
+70;Sucre;70221;Coveñas;19789
+73;Tolima;73217;Coyaima;22553
+81;Arauca;81220;Cravo Norte;4242
+52;Nariño;52224;Cuaspud Carlosama;9198
+15;Boyacá;15223;Cubará;10828
+15;Boyacá;15224;Cucaita;3814
+25;Cundinamarca;25224;Cucunubá;8585
+54;Norte de Santander;54001;Cúcuta;787891
+54;Norte de Santander;54223;Cucutilla;8591
+15;Boyacá;15226;Cuítiva;1823
+50;Meta;50226;Cumaral;23387
+99;Vichada;99773;Cumaribo;79984
+52;Nariño;52227;Cumbal;37032
+52;Nariño;52233;Cumbitara;5767
+73;Tolima;73226;Cunday;8395
+18;Caquetá;18205;Curillo;7854
+68;Santander;68229;Curití;13432
+20;Cesar;20228;Curumaní;40491
+05;Antioquia;05234;Dabeiba;23874
+76;Valle del Cauca;76233;Dagua;49279
+44;La Guajira;44090;Dibulla;43026
+44;La Guajira;44098;Distracción;14572
+73;Tolima;73236;Dolores;8208
+05;Antioquia;05237;Donmatías;20018
+66;Risaralda;66170;Dosquebradas;225554
+15;Boyacá;15238;Duitama;127592
+54;Norte de Santander;54239;Durania;4878
+05;Antioquia;05240;Ebéjico;12322
+76;Valle del Cauca;76243;El Águila;8608
+05;Antioquia;05250;El Bagre;54681
+47;Magdalena;47245;El Banco;70783
+76;Valle del Cauca;76246;El Cairo;6541
+50;Meta;50245;El Calvario;1666
+27;Chocó;27135;El Cantón del San Pablo;6338
+54;Norte de Santander;54245;El Carmen;14235
+27;Chocó;27245;El Carmen de Atrato;8278
+13;Bolívar;13244;El Carmen de Bolívar;73653
+68;Santander;68235;El Carmen de Chucurí;22062
+05;Antioquia;05148;El Carmen de Viboral;63564
+50;Meta;50251;El Castillo;7469
+76;Valle del Cauca;76248;El Cerrito;57441
+52;Nariño;52250;El Charco;22549
+15;Boyacá;15244;El Cocuy;4144
+25;Cundinamarca;25245;El Colegio;27216
+20;Cesar;20238;El Copey;32307
+18;Caquetá;18247;El Doncello;19484
+50;Meta;50270;El Dorado;4004
+76;Valle del Cauca;76250;El Dovio;8662
+91;Amazonas;91263;El Encanto;2093
+15;Boyacá;15248;El Espino;3076
+68;Santander;68245;El Guacamayo;2108
+13;Bolívar;13248;El Guamo;9115
+27;Chocó;27250;El Litoral del San Juan;23080
+44;La Guajira;44110;El Molino;8059
+20;Cesar;20250;El Paso;41715
+18;Caquetá;18256;El Paujíl;18659
+52;Nariño;52254;El Peñol;7442
+13;Bolívar;13268;El Peñón;8194
+25;Cundinamarca;25258;El Peñón;4979
+68;Santander;68250;El Peñón;5568
+47;Magdalena;47258;El Piñón;24457
+68;Santander;68255;El Playón;14193
+47;Magdalena;47268;El Retén;21379
+95;Guaviare;95025;El Retorno;14010
+70;Sucre;70233;El Roble;10585
+25;Cundinamarca;25260;El Rosal;25757
+52;Nariño;52256;El Rosario;12059
+05;Antioquia;05697;El Santuario;37173
+52;Nariño;52258;El Tablón de Gómez;14258
+19;Cauca;19256;El Tambo;54198
+52;Nariño;52260;El Tambo;13806
+54;Norte de Santander;54250;El Tarra;22230
+54;Norte de Santander;54261;El Zulia;29800
+41;Huila;41244;Elías;4336
+68;Santander;68264;Encino;2612
+68;Santander;68266;Enciso;3483
+05;Antioquia;05264;Entrerríos;11912
+05;Antioquia;05266;Envigado;246003
+73;Tolima;73268;Espinal;71221
+25;Cundinamarca;25269;Facatativá;162205
+73;Tolima;73270;Falan;7407
+17;Caldas;17272;Filadelfia;11498
+63;Quindío;63272;Filandia;12405
+15;Boyacá;15272;Firavitoba;6851
+73;Tolima;73275;Flandes;28700
+18;Caquetá;18001;Florencia;174839
+19;Cauca;19290;Florencia;5346
+15;Boyacá;15276;Floresta;3254
+68;Santander;68271;Florián;5651
+76;Valle del Cauca;76275;Florida;58273
+68;Santander;68276;Floridablanca;311365
+25;Cundinamarca;25279;Fómeque;13311
+44;La Guajira;44279;Fonseca;45558
+81;Arauca;81300;Fortul;20629
+25;Cundinamarca;25281;Fosca;6278
+52;Nariño;52520;Francisco Pizarro;14155
+05;Antioquia;05282;Fredonia;25138
+73;Tolima;73283;Fresno;31278
+05;Antioquia;05284;Frontino;21021
+50;Meta;50287;Fuente de Oro;12491
+47;Magdalena;47288;Fundación;71572
+52;Nariño;52287;Funes;7133
+25;Cundinamarca;25286;Funza;109281
+25;Cundinamarca;25288;Fúquene;5418
+25;Cundinamarca;25290;Fusagasugá;160296
+25;Cundinamarca;25293;Gachalá;4580
+25;Cundinamarca;25295;Gachancipá;20150
+15;Boyacá;15293;Gachantivá;2798
+25;Cundinamarca;25297;Gachetá;8878
+68;Santander;68296;Galán;2923
+08;Atlántico;08296;Galapa;68235
+70;Sucre;70235;Galeras;23563
+25;Cundinamarca;25299;Gama;3342
+20;Cesar;20295;Gamarra;16194
+68;Santander;68298;Gámbita;4057
+15;Boyacá;15296;Gámeza;4885
+15;Boyacá;15299;Garagoa;18455
+41;Huila;41298;Garzón;74758
+63;Quindío;63302;Génova;7536
+41;Huila;41306;Gigante;24929
+76;Valle del Cauca;76306;Ginebra;23174
+05;Antioquia;05306;Giraldo;5839
+25;Cundinamarca;25307;Girardot;114152
+05;Antioquia;05308;Girardota;55294
+68;Santander;68307;Girón;173841
+05;Antioquia;05310;Gómez Plata;10075
+20;Cesar;20310;González;4663
+54;Norte de Santander;54313;Gramalote;7799
+05;Antioquia;05313;Granada;9915
+25;Cundinamarca;25312;Granada;8246
+50;Meta;50313;Granada;71174
+68;Santander;68318;Guaca;5974
+15;Boyacá;15317;Guacamayas;1847
+76;Valle del Cauca;76318;Guacarí;33759
+19;Cauca;19300;Guachené;20180
+25;Cundinamarca;25317;Guachetá;14807
+52;Nariño;52317;Guachucal;19334
+76;Valle del Cauca;76111;Guadalajara de Buga;129639
+05;Antioquia;05315;Guadalupe;6768
+41;Huila;41319;Guadalupe;18456
+68;Santander;68320;Guadalupe;4517
+25;Cundinamarca;25320;Guaduas;34531
+52;Nariño;52320;Guaitarilla;11322
+52;Nariño;52323;Gualmatán;7038
+47;Magdalena;47318;Guamal;28346
+50;Meta;50318;Guamal;14584
+73;Tolima;73319;Guamo;32864
+19;Cauca;19318;Guapi;27917
+68;Santander;68322;Guapotá;2440
+70;Sucre;70265;Guaranda;18861
+05;Antioquia;05318;Guarne;59073
+25;Cundinamarca;25322;Guasca;17607
+05;Antioquia;05321;Guatapé;8844
+25;Cundinamarca;25324;Guataquí;2882
+25;Cundinamarca;25326;Guatavita;7082
+15;Boyacá;15322;Guateque;10981
+66;Risaralda;66318;Guática;12203
+68;Santander;68324;Guavatá;4237
+25;Cundinamarca;25328;Guayabal de Síquima;4931
+25;Cundinamarca;25335;Guayabetal;7012
+15;Boyacá;15325;Guayatá;3415
+68;Santander;68327;Güepsa;5368
+15;Boyacá;15332;Güicán de La Sierra;4331
+25;Cundinamarca;25339;Gutiérrez;3709
+54;Norte de Santander;54344;Hacarí;10748
+13;Bolívar;13300;Hatillo de Loba;13204
+68;Santander;68344;Hato;2396
+85;Casanare;85125;Hato Corozal;12219
+44;La Guajira;44378;Hatonuevo;22539
+05;Antioquia;05347;Heliconia;5479
+54;Norte de Santander;54347;Herrán;7426
+73;Tolima;73347;Herveo;7233
+05;Antioquia;05353;Hispania;5678
+41;Huila;41349;Hobo;7448
+73;Tolima;73349;Honda;24611
+73;Tolima;73001;Ibagué;542724
+73;Tolima;73352;Icononzo;11926
+52;Nariño;52352;Iles;7630
+52;Nariño;52354;Imués;7444
+94;Guainía;94001;Inírida;34401
+19;Cauca;19355;Inzá;29681
+52;Nariño;52356;Ipiales;115810
+41;Huila;41357;Íquira;9422
+41;Huila;41359;Isnos;25935
+27;Chocó;27361;Istmina;31055
+05;Antioquia;05360;Itagüí;294551
+05;Antioquia;05361;Ituango;28220
+15;Boyacá;15362;Iza;2010
+19;Cauca;19364;Jambaló;18720
+76;Valle del Cauca;76364;Jamundí;168079
+05;Antioquia;05364;Jardín;15060
+15;Boyacá;15367;Jenesano;7390
+05;Antioquia;05368;Jericó;13919
+15;Boyacá;15368;Jericó;3917
+25;Cundinamarca;25368;Jerusalén;2407
+68;Santander;68368;Jesús María;3376
+68;Santander;68370;Jordán;1351
+08;Atlántico;08372;Juan de Acosta;23164
+25;Cundinamarca;25372;Junín;6315
+27;Chocó;27372;Juradó;6898
+23;Córdoba;23350;La Apartada;15342
+41;Huila;41378;La Argentina;13272
+68;Santander;68377;La Belleza;6246
+25;Cundinamarca;25377;La Calera;34224
+15;Boyacá;15380;La Capilla;2710
+05;Antioquia;05376;La Ceja;69399
+66;Risaralda;66383;La Celia;7483
+91;Amazonas;91405;La Chorrera;2978
+52;Nariño;52378;La Cruz;18639
+76;Valle del Cauca;76377;La Cumbre;16598
+17;Caldas;17380;La Dorada;74655
+54;Norte de Santander;54385;La Esperanza;12545
+05;Antioquia;05380;La Estrella;76704
+52;Nariño;52381;La Florida;9909
+20;Cesar;20383;La Gloria;18831
+94;Guainía;94885;La Guadalupe;298
+20;Cesar;20400;La Jagua de Ibirico;52015
+44;La Guajira;44420;La Jagua del Pilar;3921
+52;Nariño;52385;La Llanada;6469
+50;Meta;50350;La Macarena;28290
+17;Caldas;17388;La Merced;5932
+25;Cundinamarca;25386;La Mesa;37564
+18;Caquetá;18410;La Montañita;14844
+25;Cundinamarca;25394;La Palma;10200
+20;Cesar;20621;La Paz;30218
+68;Santander;68397;La Paz;4971
+91;Amazonas;91407;La Pedrera;3978
+25;Cundinamarca;25398;La Peña;6337
+05;Antioquia;05390;La Pintada;8593
+41;Huila;41396;La Plata;62904
+54;Norte de Santander;54398;La Playa;8112
+99;Vichada;99524;La Primavera;9743
+85;Casanare;85136;La Salina;1382
+19;Cauca;19392;La Sierra;10740
+63;Quindío;63401;La Tebaida;35225
+52;Nariño;52390;La Tola;7460
+05;Antioquia;05400;La Unión;22742
+52;Nariño;52399;La Unión;31744
+70;Sucre;70400;La Unión;13176
+76;Valle del Cauca;76400;La Unión;34685
+15;Boyacá;15403;La Uvita;2749
+19;Cauca;19397;La Vega;24839
+25;Cundinamarca;25402;La Vega;19382
+91;Amazonas;91430;La Victoria;667
+15;Boyacá;15401;La Victoria;1125
+76;Valle del Cauca;76403;La Victoria;11931
+66;Risaralda;66400;La Virginia;28197
+54;Norte de Santander;54377;Labateca;6664
+15;Boyacá;15377;Labranzagrande;3518
+68;Santander;68385;Landázuri;10705
+68;Santander;68406;Lebrija;44667
+52;Nariño;52405;Leiva;9569
+50;Meta;50400;Lejanías;11254
+25;Cundinamarca;25407;Lenguazaque;11223
+73;Tolima;73408;Lérida;18669
+91;Amazonas;91001;Leticia;50811
+73;Tolima;73411;Líbano;36332
+05;Antioquia;05411;Liborina;10247
+52;Nariño;52411;Linares;10010
+27;Chocó;27413;Lloró;9993
+19;Cauca;19418;López de Micay;19086
+23;Córdoba;23417;Lorica;116404
+52;Nariño;52418;Los Andes;9266
+23;Córdoba;23419;Los Córdobas;19476
+70;Sucre;70418;Los Palmitos;24213
+54;Norte de Santander;54405;Los Patios;98569
+68;Santander;68418;Los Santos;14954
+54;Norte de Santander;54418;Lourdes;4248
+08;Atlántico;08421;Luruaco;30863
+15;Boyacá;15425;Macanal;5108
+68;Santander;68425;Macaravita;2127
+05;Antioquia;05425;Maceo;8376
+25;Cundinamarca;25426;Machetá;6527
+25;Cundinamarca;25430;Madrid;132214
+13;Bolívar;13430;Magangué;142199
+52;Nariño;52427;Magüí;25542
+13;Bolívar;13433;Mahates;29789
+44;La Guajira;44430;Maicao;189285
+70;Sucre;70429;Majagual;38834
+68;Santander;68432;Málaga;21912
+08;Atlántico;08433;Malambo;142095
+52;Nariño;52435;Mallama;8944
+08;Atlántico;08436;Manatí;21830
+44;La Guajira;44560;Manaure;95577
+20;Cesar;20443;Manaure Balcón del Cesar;11060
+85;Casanare;85139;Maní;17624
+17;Caldas;17001;Manizales;450074
+25;Cundinamarca;25436;Manta;4048
+17;Caldas;17433;Manzanares;17946
+50;Meta;50325;Mapiripán;7215
+94;Guainía;94663;Mapiripana;0
+13;Bolívar;13440;Margarita;11272
+13;Bolívar;13442;María La Baja;49163
+05;Antioquia;05440;Marinilla;68960
+15;Boyacá;15442;Maripí;5723
+17;Caldas;17442;Marmato;9247
+17;Caldas;17444;Marquetalia;13606
+66;Risaralda;66440;Marsella;16845
+17;Caldas;17446;Marulanda;2566
+68;Santander;68444;Matanza;5091
+05;Antioquia;05001;Medellín;2573220
+25;Cundinamarca;25438;Medina;8537
+27;Chocó;27425;Medio Atrato;11021
+27;Chocó;27430;Medio Baudó;15813
+27;Chocó;27450;Medio San Juan;10916
+73;Tolima;73449;Melgar;37795
+19;Cauca;19450;Mercaderes;23282
+50;Meta;50330;Mesetas;10516
+18;Caquetá;18460;Milán;10057
+15;Boyacá;15455;Miraflores;9079
+95;Guaviare;95200;Miraflores;7194
+19;Cauca;19455;Miranda;32344
+91;Amazonas;91460;Mirití - Paraná;1894
+66;Risaralda;66456;Mistrató;17390
+97;Vaupés;97001;Mitú;34307
+86;Putumayo;86001;Mocoa;59755
+68;Santander;68464;Mogotes;10765
+68;Santander;68468;Molagavita;4151
+23;Córdoba;23464;Momil;20285
+13;Bolívar;13468;Mompós;47084
+15;Boyacá;15464;Mongua;4652
+15;Boyacá;15466;Monguí;4322
+15;Boyacá;15469;Moniquirá;23200
+23;Córdoba;23500;Moñitos;30837
+05;Antioquia;05467;Montebello;6744
+13;Bolívar;13458;Montecristo;17864
+23;Córdoba;23466;Montelíbano;86603
+63;Quindío;63470;Montenegro;37966
+23;Córdoba;23001;Montería;509558
+85;Casanare;85162;Monterrey;18175
+13;Bolívar;13473;Morales;23688
+19;Cauca;19473;Morales;40412
+18;Caquetá;18479;Morelia;3786
+94;Guainía;94888;Morichal;968
+70;Sucre;70473;Morroa;16080
+25;Cundinamarca;25473;Mosquera;156680
+52;Nariño;52473;Mosquera;12582
+15;Boyacá;15476;Motavita;5744
+73;Tolima;73461;Murillo;4155
+05;Antioquia;05475;Murindó;5316
+05;Antioquia;05480;Mutatá;14612
+54;Norte de Santander;54480;Mutiscua;4593
+15;Boyacá;15480;Muzo;8453
+05;Antioquia;05483;Nariño;10101
+25;Cundinamarca;25483;Nariño;2562
+52;Nariño;52480;Nariño;4345
+41;Huila;41483;Nátaga;6627
+73;Tolima;73483;Natagaima;14713
+05;Antioquia;05495;Nechí;27784
+05;Antioquia;05490;Necoclí;44811
+17;Caldas;17486;Neira;21295
+41;Huila;41001;Neiva;367400
+25;Cundinamarca;25486;Nemocón;15109
+25;Cundinamarca;25488;Nilo;12508
+25;Cundinamarca;25489;Nimaima;3912
+15;Boyacá;15491;Nobsa;16566
+25;Cundinamarca;25491;Nocaima;6823
+17;Caldas;17495;Norcasia;6181
+13;Bolívar;13490;Norosí;10100
+27;Chocó;27491;Nóvita;9179
+47;Magdalena;47460;Nueva Granada;21495
+15;Boyacá;15494;Nuevo Colón;5254
+85;Casanare;85225;Nunchía;8793
+27;Chocó;27495;Nuquí;16780
+76;Valle del Cauca;76497;Obando;12107
+68;Santander;68498;Ocamonte;5874
+54;Norte de Santander;54498;Ocaña;131103
+68;Santander;68500;Oiba;11299
+15;Boyacá;15500;Oicatá;2911
+05;Antioquia;05501;Olaya;3224
+52;Nariño;52490;Olaya Herrera;25204
+68;Santander;68502;Onzaga;4127
+41;Huila;41503;Oporapa;12020
+86;Putumayo;86320;Orito;39273
+85;Casanare;85230;Orocué;12768
+73;Tolima;73504;Ortega;34416
+52;Nariño;52506;Ospina;6991
+15;Boyacá;15507;Otanche;8061
+70;Sucre;70508;Ovejas;23759
+15;Boyacá;15511;Pachavita;2458
+25;Cundinamarca;25513;Pacho;26828
+97;Vaupés;97511;Pacoa;4649
+17;Caldas;17513;Pácora;15455
+19;Cauca;19513;Padilla;10072
+15;Boyacá;15514;Páez;3267
+19;Cauca;19517;Páez;47124
+41;Huila;41518;Paicol;6778
+20;Cesar;20517;Pailitas;20114
+25;Cundinamarca;25518;Paime;4449
+15;Boyacá;15516;Paipa;34931
+15;Boyacá;15518;Pajarito;2431
+41;Huila;41524;Palermo;27107
+17;Caldas;17524;Palestina;15815
+41;Huila;41530;Palestina;11491
+68;Santander;68522;Palmar;1423
+08;Atlántico;08520;Palmar de Varela;31594
+68;Santander;68524;Palmas del Socorro;2655
+76;Valle del Cauca;76520;Palmira;356259
+70;Sucre;70523;Palmito;15267
+73;Tolima;73520;Palocabildo;9843
+54;Norte de Santander;54518;Pamplona;54647
+54;Norte de Santander;54520;Pamplonita;5872
+94;Guainía;94887;Pana Pana;2023
+25;Cundinamarca;25524;Pandi;5546
+15;Boyacá;15522;Panqueba;1709
+97;Vaupés;97777;Papunahua;816
+68;Santander;68533;Páramo;4924
+25;Cundinamarca;25530;Paratebueno;9584
+25;Cundinamarca;25535;Pasca;10008
+52;Nariño;52001;Pasto;392567
+19;Cauca;19532;Patía;37793
+15;Boyacá;15531;Pauna;7263
+15;Boyacá;15533;Paya;2654
+85;Casanare;85250;Paz de Ariporo;37690
+15;Boyacá;15537;Paz de Río;4228
+47;Magdalena;47541;Pedraza;9432
+20;Cesar;20550;Pelaya;22754
+05;Antioquia;05541;Peñol;22107
+17;Caldas;17541;Pensilvania;19924
+05;Antioquia;05543;Peque;8414
+66;Risaralda;66001;Pereira;480803
+15;Boyacá;15542;Pesca;6778
+19;Cauca;19533;Piamonte;9335
+68;Santander;68547;Piedecuesta;185020
+73;Tolima;73547;Piedras;6781
+19;Cauca;19548;Piendamó;42179
+63;Quindío;63548;Pijao;5182
+47;Magdalena;47545;Pijiño del Carmen;13108
+68;Santander;68549;Pinchote;5445
+13;Bolívar;13549;Pinillos;25066
+08;Atlántico;08549;Piojó;7216
+15;Boyacá;15550;Pisba;1806
+41;Huila;41548;Pital;14041
+41;Huila;41551;Pitalito;129710
+47;Magdalena;47551;Pivijay;39570
+73;Tolima;73555;Planadas;25871
+23;Córdoba;23555;Planeta Rica;65305
+47;Magdalena;47555;Plato;64998
+52;Nariño;52540;Policarpa;9777
+08;Atlántico;08558;Polonuevo;19899
+08;Atlántico;08560;Ponedera;26194
+19;Cauca;19001;Popayán;328139
+85;Casanare;85263;Pore;12170
+52;Nariño;52560;Potosí;10056
+76;Valle del Cauca;76563;Pradera;48424
+73;Tolima;73563;Prado;8439
+88;Archipiélago de San Andrés, Providencia y Santa Catalina;88564;Providencia;6356
+52;Nariño;52565;Providencia;5552
+20;Cesar;20570;Pueblo Bello;30054
+23;Córdoba;23570;Pueblo Nuevo;36784
+66;Risaralda;66572;Pueblo Rico;16577
+05;Antioquia;05576;Pueblorrico;8870
+47;Magdalena;47570;Puebloviejo;32688
+68;Santander;68572;Puente Nacional;15008
+52;Nariño;52573;Puerres;8363
+91;Amazonas;91530;Puerto Alegría;777
+91;Amazonas;91536;Puerto Arica;1050
+86;Putumayo;86568;Puerto Asís;68143
+05;Antioquia;05579;Puerto Berrío;41345
+15;Boyacá;15572;Puerto Boyacá;48622
+86;Putumayo;86569;Puerto Caicedo;16226
+99;Vichada;99001;Puerto Carreño;20578
+08;Atlántico;08573;Puerto Colombia;54621
+94;Guainía;94884;Puerto Colombia;1995
+50;Meta;50450;Puerto Concordia;8640
+23;Córdoba;23574;Puerto Escondido;24568
+50;Meta;50568;Puerto Gaitán;43974
+86;Putumayo;86571;Puerto Guzmán;37173
+86;Putumayo;86573;Puerto Leguízamo;29903
+23;Córdoba;23580;Puerto Libertador;43937
+50;Meta;50577;Puerto Lleras;10440
+50;Meta;50573;Puerto López;30563
+05;Antioquia;05585;Puerto Nare;14664
+91;Amazonas;91540;Puerto Nariño;10460
+68;Santander;68573;Puerto Parra;8107
+18;Caquetá;18592;Puerto Rico;26554
+50;Meta;50590;Puerto Rico;12980
+81;Arauca;81591;Puerto Rondón;5036
+25;Cundinamarca;25572;Puerto Salgar;17333
+91;Amazonas;91669;Puerto Santander;1786
+54;Norte de Santander;54553;Puerto Santander;9391
+19;Cauca;19573;Puerto Tejada;42126
+05;Antioquia;05591;Puerto Triunfo;19268
+68;Santander;68575;Puerto Wilches;34585
+25;Cundinamarca;25580;Pulí;3575
+52;Nariño;52585;Pupiales;17215
+19;Cauca;19585;Puracé;17709
+73;Tolima;73585;Purificación;23604
+23;Córdoba;23586;Purísima;17731
+25;Cundinamarca;25592;Quebradanegra;5123
+25;Cundinamarca;25594;Quetame;5526
+27;Chocó;27001;Quibdó;131886
+63;Quindío;63594;Quimbaya;31514
+66;Risaralda;66594;Quinchía;27484
+15;Boyacá;15580;Quípama;5017
+25;Cundinamarca;25596;Quipile;6796
+54;Norte de Santander;54599;Ragonvalia;6426
+15;Boyacá;15599;Ramiriquí;10147
+15;Boyacá;15600;Ráquira;8085
+85;Casanare;85279;Recetor;1813
+13;Bolívar;13580;Regidor;7334
+05;Antioquia;05604;Remedios;30094
+47;Magdalena;47605;Remolino;12112
+08;Atlántico;08606;Repelón;28606
+50;Meta;50606;Restrepo;18812
+76;Valle del Cauca;76606;Restrepo;15386
+05;Antioquia;05607;Retiro;25146
+25;Cundinamarca;25612;Ricaurte;14941
+52;Nariño;52612;Ricaurte;20056
+20;Cesar;20614;Río de Oro;18163
+27;Chocó;27580;Río Iró;5638
+27;Chocó;27600;Río Quito;8518
+13;Bolívar;13600;Río Viejo;10892
+73;Tolima;73616;Rioblanco;22680
+76;Valle del Cauca;76616;Riofrío;15546
+44;La Guajira;44001;Riohacha;206435
+05;Antioquia;05615;Rionegro;145242
+68;Santander;68615;Rionegro;27361
+17;Caldas;17614;Riosucio;52411
+27;Chocó;27615;Riosucio;55690
+17;Caldas;17616;Risaralda;10659
+41;Huila;41615;Rivera;25342
+52;Nariño;52621;Roberto Payán;12693
+76;Valle del Cauca;76622;Roldanillo;36984
+73;Tolima;73622;Roncesvalles;5494
+15;Boyacá;15621;Rondón;2390
+19;Cauca;19622;Rosas;11631
+73;Tolima;73624;Rovira;21551
+68;Santander;68655;Sabana de Torres;34945
+08;Atlántico;08634;Sabanagrande;35720
+05;Antioquia;05628;Sabanalarga;9422
+08;Atlántico;08638;Sabanalarga;101843
+85;Casanare;85300;Sabanalarga;3602
+47;Magdalena;47660;Sabanas de San Ángel;16984
+05;Antioquia;05631;Sabaneta;89364
+15;Boyacá;15632;Saboyá;13947
+85;Casanare;85315;Sácama;2078
+15;Boyacá;15638;Sáchica;5718
+23;Córdoba;23660;Sahagún;111135
+41;Huila;41660;Saladoblanco;10654
+17;Caldas;17653;Salamina;19559
+47;Magdalena;47675;Salamina;11468
+54;Norte de Santander;54660;Salazar;10875
+73;Tolima;73671;Saldaña;14514
+63;Quindío;63690;Salento;9644
+05;Antioquia;05642;Salgar;18544
+15;Boyacá;15646;Samacá;18955
+17;Caldas;17662;Samaná;20138
+52;Nariño;52678;Samaniego;27735
+70;Sucre;70670;Sampués;49501
+41;Huila;41668;San Agustín;34010
+20;Cesar;20710;San Alberto;29050
+88;Archipiélago de San Andrés, Providencia y Santa Catalina;88001;San Andrés;58316
+68;Santander;68669;San Andrés;8691
+05;Antioquia;05647;San Andrés de Cuerquía;7394
+23;Córdoba;23670;San Andrés de Sotavento;48434
+52;Nariño;52835;San Andrés de Tumaco;257042
+23;Córdoba;23672;San Antero;35328
+73;Tolima;73675;San Antonio;12605
+25;Cundinamarca;25645;San Antonio del Tequendama;13339
+68;Santander;68673;San Benito;3005
+70;Sucre;70678;San Benito Abad;30184
+25;Cundinamarca;25649;San Bernardo;9341
+52;Nariño;52685;San Bernardo;9169
+23;Córdoba;23675;San Bernardo del Viento;37378
+54;Norte de Santander;54670;San Calixto;12341
+05;Antioquia;05649;San Carlos;16056
+23;Córdoba;23678;San Carlos;27591
+50;Meta;50680;San Carlos de Guaroa;12984
+25;Cundinamarca;25653;San Cayetano;5176
+54;Norte de Santander;54673;San Cayetano;7898
+13;Bolívar;13620;San Cristóbal;8696
+20;Cesar;20750;San Diego;20895
+15;Boyacá;15660;San Eduardo;1672
+13;Bolívar;13647;San Estanislao;19407
+94;Guainía;94883;San Felipe;1753
+13;Bolívar;13650;San Fernando;13215
+05;Antioquia;05652;San Francisco;5981
+25;Cundinamarca;25658;San Francisco;12314
+86;Putumayo;86755;San Francisco;5643
+68;Santander;68679;San Gil;60342
+13;Bolívar;13654;San Jacinto;24910
+13;Bolívar;13655;San Jacinto del Cauca;10800
+05;Antioquia;05656;San Jerónimo;16268
+68;Santander;68682;San Joaquín;2232
+17;Caldas;17665;San José;4958
+05;Antioquia;05658;San José de La Montaña;3823
+68;Santander;68684;San José de Miranda;4336
+15;Boyacá;15664;San José de Pare;5034
+23;Córdoba;23682;San José de Uré;13930
+18;Caquetá;18610;San José del Fragua;13237
+95;Guaviare;95001;San José del Guaviare;57004
+27;Chocó;27660;San José del Palmar;5001
+50;Meta;50683;San Juan de Arama;8938
+70;Sucre;70702;San Juan de Betulia;14387
+25;Cundinamarca;25662;San Juan de Rioseco;8876
+05;Antioquia;05659;San Juan de Urabá;21279
+44;La Guajira;44650;San Juan del Cesar;50713
+13;Bolívar;13657;San Juan Nepomuceno;39090
+50;Meta;50686;San Juanito;1253
+52;Nariño;52687;San Lorenzo;18395
+05;Antioquia;05660;San Luis;13327
+73;Tolima;73678;San Luis;13489
+50;Meta;50223;San Luis de Cubarral;7126
+15;Boyacá;15667;San Luis de Gaceno;5512
+85;Casanare;85325;San Luis de Palenque;8423
+70;Sucre;70742;San Luis de Sincé;32343
+70;Sucre;70708;San Marcos;61412
+20;Cesar;20770;San Martín;29367
+50;Meta;50689;San Martín;26718
+13;Bolívar;13667;San Martín de Loba;15114
+15;Boyacá;15673;San Mateo;3153
+86;Putumayo;86757;San Miguel;19703
+68;Santander;68686;San Miguel;2505
+15;Boyacá;15676;San Miguel de Sema;3032
+70;Sucre;70713;San Onofre;51813
+13;Bolívar;13670;San Pablo;29165
+52;Nariño;52693;San Pablo;14789
+15;Boyacá;15681;San Pablo de Borbur;6764
+70;Sucre;70717;San Pedro;19475
+76;Valle del Cauca;76670;San Pedro;17297
+52;Nariño;52694;San Pedro de Cartago;6818
+05;Antioquia;05664;San Pedro de Los Milagros;23244
+05;Antioquia;05665;San Pedro de Urabá;32646
+23;Córdoba;23686;San Pelayo;53427
+05;Antioquia;05667;San Rafael;15906
+05;Antioquia;05670;San Roque;21932
+19;Cauca;19693;San Sebastián;11150
+47;Magdalena;47692;San Sebastián de Buenavista;21013
+73;Tolima;73443;San Sebastián de Mariquita;38448
+68;Santander;68689;San Vicente de Chucurí;33965
+18;Caquetá;18753;San Vicente del Caguán;53149
+05;Antioquia;05674;San Vicente Ferrer;22818
+47;Magdalena;47703;San Zenón;12632
+52;Nariño;52683;Sandoná;19765
+47;Magdalena;47707;Santa Ana;26475
+05;Antioquia;05679;Santa Bárbara;27608
+52;Nariño;52696;Santa Bárbara;13239
+68;Santander;68705;Santa Bárbara;2475
+47;Magdalena;47720;Santa Bárbara de Pinto;11470
+13;Bolívar;13673;Santa Catalina;15166
+68;Santander;68720;Santa Helena del Opón;3449
+73;Tolima;73686;Santa Isabel;5689
+08;Atlántico;08675;Santa Lucía;17410
+15;Boyacá;15690;Santa María;3523
+41;Huila;41676;Santa María;10548
+47;Magdalena;47001;Santa Marta;546979
+13;Bolívar;13683;Santa Rosa;22740
+19;Cauca;19701;Santa Rosa;5426
+66;Risaralda;66682;Santa Rosa de Cabal;80000
+05;Antioquia;05686;Santa Rosa de Osos;38463
+15;Boyacá;15693;Santa Rosa de Viterbo;13419
+13;Bolívar;13688;Santa Rosa del Sur;35079
+99;Vichada;99624;Santa Rosalía;4252
+15;Boyacá;15696;Santa Sofía;3235
+52;Nariño;52699;Santacruz;11074
+05;Antioquia;05042;Santafé de Antioquia;27421
+15;Boyacá;15686;Santana;7765
+19;Cauca;19698;Santander de Quilichao;113925
+54;Norte de Santander;54680;Santiago;3718
+86;Putumayo;86760;Santiago;7408
+70;Sucre;70820;Santiago de Tolú;34587
+05;Antioquia;05690;Santo Domingo;12515
+08;Atlántico;08685;Santo Tomás;32574
+66;Risaralda;66687;Santuario;12530
+52;Nariño;52720;Sapuyes;7230
+81;Arauca;81736;Saravena;64520
+54;Norte de Santander;54720;Sardinata;27171
+25;Cundinamarca;25718;Sasaima;11979
+15;Boyacá;15720;Sativanorte;2168
+15;Boyacá;15723;Sativasur;1113
+05;Antioquia;05736;Segovia;39990
+25;Cundinamarca;25736;Sesquilé;13147
+76;Valle del Cauca;76736;Sevilla;41374
+15;Boyacá;15740;Siachoque;6822
+25;Cundinamarca;25740;Sibaté;38114
+86;Putumayo;86749;Sibundoy;15687
+54;Norte de Santander;54743;Silos;6636
+25;Cundinamarca;25743;Silvania;24422
+19;Cauca;19743;Silvia;38374
+68;Santander;68745;Simacota;10339
+25;Cundinamarca;25745;Simijaca;14620
+13;Bolívar;13744;Simití;19426
+70;Sucre;70001;Sincelejo;298062
+27;Chocó;27745;Sipí;3246
+47;Magdalena;47745;Sitionuevo;29612
+25;Cundinamarca;25754;Soacha;783632
+15;Boyacá;15753;Soatá;8894
+15;Boyacá;15757;Socha;8143
+68;Santander;68755;Socorro;34007
+15;Boyacá;15755;Socotá;7262
+15;Boyacá;15759;Sogamoso;132059
+18;Caquetá;18756;Solano;11625
+08;Atlántico;08758;Soledad;677070
+18;Caquetá;18785;Solita;6412
+15;Boyacá;15761;Somondoco;2900
+05;Antioquia;05756;Sonsón;37193
+05;Antioquia;05761;Sopetrán;15753
+13;Bolívar;13760;Soplaviento;10997
+25;Cundinamarca;25758;Sopó;30157
+15;Boyacá;15762;Sora;3099
+15;Boyacá;15764;Soracá;6111
+15;Boyacá;15763;Sotaquirá;8364
+19;Cauca;19760;Sotara;14326
+68;Santander;68770;Suaita;10270
+08;Atlántico;08770;Suan;12797
+19;Cauca;19780;Suárez;32792
+73;Tolima;73770;Suárez;3783
+41;Huila;41770;Suaza;22920
+25;Cundinamarca;25769;Subachoque;17408
+19;Cauca;19785;Sucre;9748
+68;Santander;68773;Sucre;7142
+70;Sucre;70771;Sucre;31239
+25;Cundinamarca;25772;Suesca;19485
+25;Cundinamarca;25777;Supatá;5763
+17;Caldas;17777;Supía;29620
+68;Santander;68780;Suratá;4031
+25;Cundinamarca;25779;Susa;7348
+15;Boyacá;15774;Susacón;2723
+15;Boyacá;15776;Sutamarchán;6273
+25;Cundinamarca;25781;Sutatausa;6697
+15;Boyacá;15778;Sutatenza;4252
+25;Cundinamarca;25785;Tabio;25172
+27;Chocó;27787;Tadó;18058
+13;Bolívar;13780;Talaigua Nuevo;13373
+20;Cesar;20787;Tamalameque;16525
+85;Casanare;85400;Támara;6627
+81;Arauca;81794;Tame;50138
+05;Antioquia;05789;Támesis;16452
+52;Nariño;52786;Taminango;17877
+52;Nariño;52788;Tangua;13318
+97;Vaupés;97666;Taraira;2534
+91;Amazonas;91798;Tarapacá;3970
+05;Antioquia;05790;Tarazá;28429
+41;Huila;41791;Tarqui;17874
+05;Antioquia;05792;Tarso;6328
+15;Boyacá;15790;Tasco;5833
+85;Casanare;85410;Tauramena;25410
+25;Cundinamarca;25793;Tausa;8998
+41;Huila;41799;Tello;11897
+25;Cundinamarca;25797;Tena;10949
+47;Magdalena;47798;Tenerife;13710
+25;Cundinamarca;25799;Tenjo;25053
+15;Boyacá;15798;Tenza;3848
+54;Norte de Santander;54800;Teorama;17915
+41;Huila;41801;Teruel;8160
+41;Huila;41797;Tesalia;11015
+25;Cundinamarca;25805;Tibacuy;4823
+15;Boyacá;15804;Tibaná;9184
+15;Boyacá;15806;Tibasosa;13493
+25;Cundinamarca;25807;Tibirita;3415
+54;Norte de Santander;54810;Tibú;59536
+23;Córdoba;23807;Tierralta;95973
+41;Huila;41807;Timaná;22251
+19;Cauca;19807;Timbío;36584
+19;Cauca;19809;Timbiquí;26824
+15;Boyacá;15808;Tinjacá;3375
+15;Boyacá;15810;Tipacoque;3313
+13;Bolívar;13810;Tiquisio;19315
+05;Antioquia;05809;Titiribí;10885
+15;Boyacá;15814;Toca;8956
+25;Cundinamarca;25815;Tocaima;17271
+25;Cundinamarca;25817;Tocancipá;47539
+15;Boyacá;15816;Togüí;4366
+05;Antioquia;05819;Toledo;5121
+54;Norte de Santander;54820;Toledo;16548
+70;Sucre;70823;Tolú Viejo;22596
+68;Santander;68820;Tona;7805
+15;Boyacá;15820;Tópaga;3724
+25;Cundinamarca;25823;Topaipí;4454
+19;Cauca;19821;Toribío;36994
+76;Valle del Cauca;76823;Toro;14466
+15;Boyacá;15822;Tota;5270
+19;Cauca;19824;Totoró;25821
+85;Casanare;85430;Trinidad;13573
+76;Valle del Cauca;76828;Trujillo;19084
+08;Atlántico;08832;Tubará;19187
+23;Córdoba;23815;Tuchín;55418
+76;Valle del Cauca;76834;Tuluá;220032
+15;Boyacá;15001;Tunja;180568
+15;Boyacá;15832;Tununguá;1587
+52;Nariño;52838;Túquerres;44565
+13;Bolívar;13836;Turbaco;115116
+13;Bolívar;13838;Turbaná;17669
+05;Antioquia;05837;Turbo;132236
+15;Boyacá;15835;Turmequé;6200
+15;Boyacá;15837;Tuta;8523
+15;Boyacá;15839;Tutazá;2053
+25;Cundinamarca;25839;Ubalá;8098
+25;Cundinamarca;25841;Ubaque;7348
+76;Valle del Cauca;76845;Ulloa;5410
+15;Boyacá;15842;Úmbita;7605
+25;Cundinamarca;25845;Une;7664
+27;Chocó;27800;Unguía;12926
+27;Chocó;27810;Unión Panamericana;7040
+05;Antioquia;05842;Uramita;7006
+50;Meta;50370;Uribe;9560
+44;La Guajira;44847;Uribia;194450
+05;Antioquia;05847;Urrao;31355
+44;La Guajira;44855;Urumita;11517
+08;Atlántico;08849;Usiacurí;13380
+25;Cundinamarca;25851;Útica;4610
+05;Antioquia;05854;Valdivia;14321
+23;Córdoba;23855;Valencia;36640
+68;Santander;68855;Valle de San José;6406
+73;Tolima;73854;Valle de San Juan;5375
+86;Putumayo;86865;Valle del Guamuez;35140
+20;Cesar;20001;Valledupar;544134
+05;Antioquia;05856;Valparaíso;6572
+18;Caquetá;18860;Valparaíso;7122
+05;Antioquia;05858;Vegachí;12226
+68;Santander;68861;Vélez;25498
+73;Tolima;73861;Venadillo;12759
+05;Antioquia;05861;Venecia;11897
+25;Cundinamarca;25506;Venecia;4626
+15;Boyacá;15861;Ventaquemada;16210
+25;Cundinamarca;25862;Vergara;7452
+76;Valle del Cauca;76863;Versalles;6987
+68;Santander;68867;Vetas;2192
+25;Cundinamarca;25867;Vianí;4852
+17;Caldas;17867;Victoria;10440
+05;Antioquia;05873;Vigía del Fuerte;9569
+76;Valle del Cauca;76869;Vijes;12953
+54;Norte de Santander;54871;Villa Caro;5376
+15;Boyacá;15407;Villa de Leyva;17096
+25;Cundinamarca;25843;Villa de San Diego de Ubaté;48774
+54;Norte de Santander;54874;Villa del Rosario;112798
+19;Cauca;19845;Villa Rica;21502
+86;Putumayo;86885;Villagarzón;24425
+25;Cundinamarca;25871;Villagómez;1899
+73;Tolima;73870;Villahermosa;9212
+17;Caldas;17873;Villamaría;68020
+13;Bolívar;13873;Villanueva;25604
+85;Casanare;85440;Villanueva;36517
+44;La Guajira;44874;Villanueva;29902
+68;Santander;68872;Villanueva;8070
+25;Cundinamarca;25873;Villapinzón;19165
+73;Tolima;73873;Villarrica;4974
+50;Meta;50001;Villavicencio;549922
+41;Huila;41872;Villavieja;7299
+25;Cundinamarca;25875;Villeta;30285
+25;Cundinamarca;25878;Viotá;14429
+15;Boyacá;15879;Viracachá;2829
+50;Meta;50711;Vistahermosa;16929
+17;Caldas;17877;Viterbo;12963
+25;Cundinamarca;25885;Yacopí;13063
+52;Nariño;52885;Yacuanquer;10955
+41;Huila;41885;Yaguará;7888
+05;Antioquia;05885;Yalí;7800
+05;Antioquia;05887;Yarumal;43340
+97;Vaupés;97889;Yavaraté;1153
+05;Antioquia;05890;Yolombó;23870
+05;Antioquia;05893;Yondó;20426
+85;Casanare;85001;Yopal;179355
+76;Valle del Cauca;76890;Yotoco;16284
+76;Valle del Cauca;76892;Yumbo;110683
+13;Bolívar;13894;Zambrano;12502
+68;Santander;68895;Zapatoca;9672
+47;Magdalena;47960;Zapayán;10778
+05;Antioquia;05895;Zaragoza;26106
+76;Valle del Cauca;76895;Zarzal;42635
+15;Boyacá;15897;Zetaquira;4658
+25;Cundinamarca;25898;Zipacón;5221
+25;Cundinamarca;25899;Zipaquirá;152195
+47;Magdalena;47980;Zona Bananera;75081
