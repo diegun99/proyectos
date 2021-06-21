@@ -169,5 +169,33 @@ def restar_fechas(fecha_fin, fecha_ini):
     
     return resultado
 
+def PedirDatosPersonales ():
+    nombre = input("Digite el nombre : ")
+    numDocumento=input("Digite el número de Documento: " )
 
-solicitar_fecha()
+    while True:
+        try:
+            telefono =int(input("Digite el número de telefono: "))
+        except ValueError:
+            print("No puedes escribir letras " )
+        else:
+            break
+
+    return [nombre,numDocumento,telefono]
+
+def pedirTodosLosDatos() :
+    datosPersonales = PedirDatosPersonales()
+    fechaSolicitud = solicitar_fecha()
+    fechaCita = solicitar_fecha()
+    fechaEntregaM = solicitar_fecha()
+
+    return [datosPersonales,fechaSolicitud,fechaCita,fechaEntregaM]
+    
+
+#app principal
+cienteUno = pedirTodosLosDatos()
+
+print(cienteUno)
+
+
+
