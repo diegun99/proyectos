@@ -170,7 +170,7 @@ def restar_fechas(fecha_fin, fecha_ini):
     return resultado
 
 def PedirDatosPersonales ():
-    nombre = input("Digite el nombre : ")
+    nombre = input("Digite el nombre completo : ")
     numDocumento=input("Digite el número de Documento: " )
 
     while True:
@@ -185,18 +185,44 @@ def PedirDatosPersonales ():
 
 def pedirTodosLosDatos() :
     datosPersonales = PedirDatosPersonales()
+    print("Digite la fecha de solicitud de la cita: ")
     fechaSolicitud = solicitar_fecha()
+    print("Digite la fecha de la cita: ")
     fechaCita = solicitar_fecha()
+    print("Digite la fecha de Entrega de resultados: ")
     fechaEntregaM = solicitar_fecha()
 
-    return [datosPersonales,fechaSolicitud,fechaCita,fechaEntregaM]
-    
+    diasLLamadaCita = restar_fechas(fechaCita,fechaSolicitud)
+    diasCitaEntrega= restar_fechas(fechaEntregaM,fechaCita)
+
+    return [datosPersonales,fechaSolicitud,fechaCita,fechaEntregaM,diasLLamadaCita,diasCitaEntrega]
+
+  
 
 #app principal
 clientes = []
+clientesTiempoEsperaSuperior = []
+continuarSesion = "si"
+numClientes = 0
 
-clienteUno = pedirTodosLosDatos()
+#pedir los datos de cada cliente
+while continuarSesion=="si":
+    print("digite los datos del cliente " ,len(clientes)+1)
+    cliente = pedirTodosLosDatos()
 
+    if cliente[4]>2 or cliente[5]>3:
+        clientesTiempoEsperaSuperior.append(cliente)
+    else:
+        clientes.append(cliente)
+
+    continuarSesion= input("Desea registrar otro cliente? (si/no): ")
+
+
+print("PACIENTES CON TIEMPOS DE ESPERA SUPERIORES A LO ESTABLECIDO\n") 
+for i in range(len(clientesTiempoEsperaSuperior)):
+    print(i+1,") ",clientesTiempoEsperaSuperior[i][0][0]," - ",clientesTiempoEsperaSuperior[i][4]," días entre llamada y cita, ",clientesTiempoEsperaSuperior[i][5]," días entre cita y resultados - Teléfono: ",clientesTiempoEsperaSuperior[i][0][2])
+
+print("\nTotal de Pacientes con tiempos superiores: ",len(clientesTiempoEsperaSuperior))
 
 
 
