@@ -83,7 +83,7 @@ def obtener_dias_mes(año, mes):
     return max_dias
 
 def solicitar_fecha():
-    año = solicitar_entero("Año", 1900, 9999)
+    año = solicitar_entero("Año", 2021, 2021)
     mes = solicitar_entero("Mes", 1, 12)
 
     #Se evalúael número máximo de días del mes 
@@ -193,9 +193,10 @@ def pedirTodosLosDatos() :
     
 
 #app principal
-cienteUno = pedirTodosLosDatos()
+clientes = []
 
-print(cienteUno)
+clienteUno = pedirTodosLosDatos()
+
 
 
 
