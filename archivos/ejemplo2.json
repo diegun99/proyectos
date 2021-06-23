@@ -1,0 +1,36 @@
+{
+    "biblioteca": {
+        "libro": [
+            {
+                "@categoria": "Fantasía",
+                "título": {
+                    "@idioma": "Español",
+                    "#text": "La comunidad del anillo"
+                },
+                "autor": "J.R.R. Tolkien",
+                "año": "1997",
+                "precio": "45000"
+            },
+            {
+                "@categoría": "Ciencia ficción",
+                "título": {
+                    "@idioma": "Inglés",
+                    "#text": "Dune"
+                },
+                "autor": "Frank Herbert",
+                "año": "2005",
+                "precio": "38000"
+            },
+            {
+                "@categoría": "Terror",
+                "título": {
+                    "@idioma": "Español",
+                    "#text": "It"
+                },
+                "autor": "Stephen King",
+                "año": "2017",
+                "precio": "42000"
+            }
+        ]
+    }
+}
