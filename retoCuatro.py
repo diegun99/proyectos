@@ -3,8 +3,8 @@
 
 
 
-''' try:
-    archivo = open("archivos/Población Colombia 2021.txt")
+try:
+    archivo = open("archivos\Pacientes COVID-19 Quindío Mayo.csv")
 except FileNotFoundError:
     print("El archivo no existe")
 else:
@@ -23,6 +23,69 @@ else:
         else:
             lista_municipios.append(lista_datos)
 
+
+#Definición de métodos
+def numeroDeCasosTotal():
+    return len(lista_municipios)
+
+def numeroTotalCasosIndiceDescripcion( indice, descripcion):
+    contador = 0
+    for i in range (len(lista_municipios)):
+        if lista_municipios[i][indice]==descripcion:
+            contador += 1
+    
+    return contador
+
+def quinquenio():
+    inicial = 0
+    final = 4
+    arregloQuinque = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+    for i in range(len(lista_municipios)):# recorre el arreglo de lista de municipios
+        inicial = 0
+        final = 4
+        for j in range(len(arregloQuinque)):# evalua cada registro y lo guarda en  el quinque adecuado
+            if lista_municipios[i][4] >=inicial and lista_municipios [i][4]<=final:
+                arregloQuinque[j]+=1
+
+            if lista_municipios[i][4] >=80:
+                arregloQuinque[j]+=1
+            inicial+=5
+            final+=5
+
+    return arregloQuinque
+
+
+
+
+
+#principal
+#1 número total casos
+casosTotal = numeroDeCasosTotal()
+
+#2 números activos
+activos = numeroTotalCasosIndiceDescripcion(7,"Activo")
+
+#3 números fallecidos
+fallecidos = numeroTotalCasosIndiceDescripcion(7,"Fallecido")
+
+#4 números femenino
+femenino = numeroTotalCasosIndiceDescripcion(5,"F")
+
+#4 números masculino
+masculino = numeroTotalCasosIndiceDescripcion(5,"M")
+
+print(casosTotal)
+print(activos)
+print(fallecidos)
+print(femenino)
+print(masculino)
+quinquenio()
+
+
+
+
+
+'''
     #Ya se leyó el archivo y se agregó su contenido a una lista
     #Ahora vamos a hallar el de menor población y el de mayor población
     municipio_menor = lista_municipios[0]
