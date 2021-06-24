@@ -37,22 +37,24 @@ def numeroTotalCasosIndiceDescripcion( indice, descripcion):
     return contador
 
 def quinquenio():
-    inicial = 0
+    inicial =0
     final = 4
-    arregloQuinque = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
-    for i in range(len(lista_municipios)):# recorre el arreglo de lista de municipios
-        inicial = 0
-        final = 4
-        for j in range(len(arregloQuinque)):# evalua cada registro y lo guarda en  el quinque adecuado
+    arregloQuinque = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+
+    for j in range(len(arregloQuinque)-1):# evalua cada registro y lo guarda en  el quinque adecuado
+        for i in range(len(lista_municipios)):
             if lista_municipios[i][4] >=inicial and lista_municipios [i][4]<=final:
                 arregloQuinque[j]+=1
+        inicial+=5
+        final+=5
 
-            if lista_municipios[i][4] >=80:
-                arregloQuinque[j]+=1
-            inicial+=5
-            final+=5
 
-    return arregloQuinque
+    for l in range(len(lista_municipios)):## arreglo para contar los mayores 80
+        if lista_municipios[l][4] >=80:
+         arregloQuinque[16]+=1
+
+
+    return print(arregloQuinque)
 
 
 
