@@ -161,20 +161,6 @@ numCasosArmenia= ( municipios["ARMENIA"]/casosTotal)*100
 
 
 
-
-print(casosTotal)
-print(activos)
-print(fallecidos)
-print(femenino)
-print(masculino)
-print(quinquenios)
-print(quinFallecidos)
-print(municipios)
-print(municipiosF)
-print(edadPromedioF)
-print(numCasosArmenia)
-
-
 continuarSesion="si"
 opcion = 0
 
